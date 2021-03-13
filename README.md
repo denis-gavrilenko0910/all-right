@@ -1,0 +1,2 @@
+# all-rigth
+technical task
