@@ -371,6 +371,12 @@ body {
           justify-content: space-between;
 }
 
+.web-link {
+  font-size: 12px;
+  line-height: 14px;
+  color: #929292;
+}
+
 .fox-background {
   position: relative;
   padding-top: 42px;
