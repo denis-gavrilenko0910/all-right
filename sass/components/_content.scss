@@ -1,0 +1,101 @@
+.heading2 {
+  margin-bottom: 30px;
+
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 30px;
+}
+.payment-text {
+  margin-bottom: 10px;
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.payment-items {
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+  color: #979797;
+}
+.payment-items.last {
+  margin-bottom: 40px;
+}
+.book-lesson {
+  display: flex;
+  margin-bottom: 50px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  width: 240px;
+  height: 55px;
+  border-radius: 30px;
+
+  justify-content: center;
+  align-items: center;
+
+  font-family: "SF Pro Display";
+
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 50px;
+
+  text-transform: uppercase;
+  text-decoration: none;
+
+  background-color: #9c27b0;
+
+  color: #ffffff;
+}
+.description-container {
+  width: 534px;
+
+  margin-left: auto;
+  margin-right: auto;
+}
+.promo-description {
+  margin-bottom: 30px;
+
+  font-size: 22px;
+  line-height: 30px;
+
+  text-align: center;
+}
+.promo-container {
+  padding: 40px 20px;
+  border-radius: 20px;
+
+  background-color: #f3f5fe;
+
+  text-align: center;
+}
+.discount-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin: -10px;
+}
+.list.items {
+  width: calc((100% - 8 * 5px) / 3);
+  margin: 5px;
+}
+.links {
+  display: flex;
+
+  height: 55px;
+
+  border: 1px solid #9c27b0;
+  border-radius: 30px;
+
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+
+  font-family: "SF Pro Display";
+
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 50px;
+
+  text-transform: uppercase;
+  color: #9c27b0;
+}
